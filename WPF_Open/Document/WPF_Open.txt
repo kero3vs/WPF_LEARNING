@@ -14,3 +14,7 @@
             sub.Show();
         }
   --サンプルコード　ここまで
+
+■参考URL
+WPF ウィンドウの概要
+http://msdn.microsoft.com/ja-jp/library/ms748948(v=vs.110).aspx#Opening_a_Window

@@ -1,0 +1,14 @@
+﻿<Page x:Class="WPF_Page.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="100" d:DesignWidth="300"
+	Title="Page1">
+
+    <Grid>
+        <Button Content="ページ１で作成しています" HorizontalAlignment="Left" Margin="60,10,0,0" VerticalAlignment="Top" Width="167" Height="47" RenderTransformOrigin="0.457,-2.19"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,4 @@
+﻿1.メイン画面にはフレームを作成する。
+
+2.フレーム内にページを表示する。
+ <Frame Content="Frame1" Height="100" Source="Page1.xaml"/>

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_LEARNING", "WPF_LEARNING\WPF_LEARNING.csproj", "{14C5BC06-CE68-4A43-8002-880C831DF931}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{3ED4F76D-2C18-460A-B437-0263EDFD4FDA}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Open", "WPF_Open\WPF_Open.csproj", "{32DD1667-0A66-4476-A2FF-14822D8F8356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C5BC06-CE68-4A43-8002-880C831DF931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C5BC06-CE68-4A43-8002-880C831DF931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C5BC06-CE68-4A43-8002-880C831DF931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C5BC06-CE68-4A43-8002-880C831DF931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DD1667-0A66-4476-A2FF-14822D8F8356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DD1667-0A66-4476-A2FF-14822D8F8356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DD1667-0A66-4476-A2FF-14822D8F8356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DD1667-0A66-4476-A2FF-14822D8F8356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

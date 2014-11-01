@@ -1,0 +1,16 @@
+﻿1.「ウィンドウ(WPF)」を作成する。
+
+2.作成したxamlファイルを開くとTOPレベルのタグに以下のような行がある。
+  --xamlファイル ここから
+  <Window x:Class="WPF_Open.SubWindow"
+  --xamlファイル ここまで
+  基本的にファイル名がクラス名。
+
+3.クラスのインスタンスを作成し、そのインスタンスのShow()メソッドを呼ぶ。
+  --サンプルコード　ここから
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            SubWindow sub = new SubWindow();
+            sub.Show();
+        }
+  --サンプルコード　ここまで

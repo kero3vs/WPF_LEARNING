@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPF_DragAndDrop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ListBox
+            x:Name="List1" 
+            MouseDown="List1_MouseDown_1"
+            HorizontalAlignment="Left" Height="75" Margin="134,51,0,0" VerticalAlignment="Top" Width="217"/>
+        <ListBox 
+            x:Name="List2" 
+            DragEnter="List2_DragEnter"
+            Drop="List2_Drop"
+            HorizontalAlignment="Left" Height="79" Margin="134,156,0,0" VerticalAlignment="Top" Width="217"/>
+
+    </Grid>
+</Window>

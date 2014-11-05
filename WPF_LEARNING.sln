@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{3ED4F76D-2C18-460A-B437-0263EDFD4FDA}"
 	ProjectSection(SolutionItems) = preProject
 		Readme.txt = Readme.txt
+		TIPS.txt = TIPS.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Open", "WPF_Open\WPF_Open.csproj", "{32DD1667-0A66-4476-A2FF-14822D8F8356}"

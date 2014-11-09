@@ -9,7 +9,13 @@ TOPにあるソリューション(WPF_LEARNING)を選択し、右クリック。
 
 ■サンプルプロジェクト
   ①WPFを使った新規ウインドウの開き方
-　  サンプルプロジェクト名：WPF_Open
+　  サンプルプロジェクト名：WPF_OpenWindow
 
 　②WPFを使ったPageの使い方
 　　サンプルプロジェクト名：WPF_Page
+
+　③メッセージダイアログの表示
+　　サンプルプロジェクト名：WPF_Message
+
+　④D&Dのやり方
+　　サンプルプロジェクト名：WPF_DragAndDrop

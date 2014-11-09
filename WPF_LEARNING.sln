@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{3E
 		TIPS.txt = TIPS.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Open", "WPF_Open\WPF_Open.csproj", "{32DD1667-0A66-4476-A2FF-14822D8F8356}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_OpenWindow", "WPF_Open\WPF_OpenWindow.csproj", "{32DD1667-0A66-4476-A2FF-14822D8F8356}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Message", "WPF_Message\WPF_Message.csproj", "{ECD298EC-4283-4673-8289-681BFDCBBD23}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_DynamicLoad", "WPF_DynamicLoad\WPF_DynamicLoad.csproj", "{CB0851A5-70BB-42A1-9897-E63683FB6A6D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_DragAndDrop", "WPF_DragAndDrop\WPF_DragAndDrop.csproj", "{FF46FB33-B313-490D-8993-EB2800EF988C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_FileOpen", "WPF_FileOpen\WPF_FileOpen.csproj", "{DF4F14AA-B14C-4BA8-A9E9-56223F166210}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{FF46FB33-B313-490D-8993-EB2800EF988C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF46FB33-B313-490D-8993-EB2800EF988C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF46FB33-B313-490D-8993-EB2800EF988C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4F14AA-B14C-4BA8-A9E9-56223F166210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4F14AA-B14C-4BA8-A9E9-56223F166210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4F14AA-B14C-4BA8-A9E9-56223F166210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4F14AA-B14C-4BA8-A9E9-56223F166210}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+﻿■テキスト表示
+　TEXTAREは無いので、「TextBlock」を使用する。スクロールバーの表示はTextBlockではできない。
+　そのため「ScrollViewer」を使用し、その中に「TextBlock」を入れる。
+　「TextBlock」の高さを指定するためには、「LineHeight="Auto"」を設定する。
+
+■ファイルを開く
+
+http://msdn.microsoft.com/ja-jp/library/ms750559(v=vs.110).aspx

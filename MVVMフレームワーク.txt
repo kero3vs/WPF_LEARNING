@@ -1,0 +1,8 @@
+ñºèÃ	URL	ÉâÉCÉZÉìÉX
+PRISM	http://compositewpf.codeplex.com/	
+MVVM Light Toolkit	http://mvvmlight.codeplex.com/	
+Simple MVVM Light Toolkit	http://simplemvvmtoolkit.codeplex.com/	
+Catel	http://catel.codeplex.com/	
+Caliburn Micro	http://caliburnmicro.codeplex.com/	
+Livet	?	
+MvvmCross		
